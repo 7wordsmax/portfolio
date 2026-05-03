@@ -6,7 +6,7 @@ const projects = [
         years: "2022-2026",
         description: "Reduce time-to-value for new users by automating the categorization of cookies and scripts for privacy compliance.",
         image: "images/gallery/Cover.png.webp",
-        link: "projects/osano-ai-classification.html",
+        link: "projects/osano.html",
         tags: ["AI", "Product Design", "Data Privacy"],
         role: "Lead Product Designer"
     },
@@ -61,7 +61,7 @@ const projects = [
         years: "2022-2026",
         description: "Streamlined DSAR processing with automated rejection and intelligent task automation.",
         image: "images/gallery/1.jpg_5.webp",
-        link: "projects/osano-dsar.html",
+        link: "projects/dealer360.html",
         tags: ["AI", "Process Automation", "Legal Tech"],
         role: "Lead Product Designer"
     },
@@ -72,7 +72,7 @@ const projects = [
         years: "2022-2026",
         description: "Automated monitoring system for detecting privacy gaps across customer domains.",
         image: "images/gallery/1.jpg_2.webp",
-        link: "projects/osano-compliance-monitor.html",
+        link: "projects/flash.html",
         tags: ["AI", "Dashboard Design", "Automation"],
         role: "Lead Product Designer"
     },
@@ -83,7 +83,7 @@ const projects = [
         years: "",
         description: "A collection of creative projects spanning brand, illustration, and visual design.",
         image: "images/projects/Various/rk_helmet_bar.jpg_1.webp",
-        link: "#",
+        link: "projects/various-creative.html",
         tags: ["Brand", "Illustration", "Visual Design"],
         role: "Designer"
     }
